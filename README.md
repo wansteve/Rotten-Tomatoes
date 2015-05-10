@@ -27,4 +27,4 @@ Time spent: `<Number of hours spent>`
 
 ### Walkthrough
 ![Video Walkthrough](RottenTomatoesDemo1.gif)
-![Video Walkthrough](RottenTomatoesDemo1.gif)
+![Video Walkthrough](RottenTomatoesDemo2.gif)
